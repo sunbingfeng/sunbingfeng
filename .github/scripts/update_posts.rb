@@ -9,7 +9,7 @@ logger.debug("I'm a debug log")
 url = "https://www.bingfeng.tech/blog/"
 response = HTTParty.get(url)
 parsed_page = Nokogiri::HTML(response.body)
-posts = parsed_page.css('article')
+posts = parsed_page.css('.posts article')
 
 # Generate the updated blog posts list (top 5)
 posts_list = ["\n### Recent Blog Posts\n\n"]
@@ -28,7 +28,7 @@ readme = client.readme(repo)
 readme_content = Base64.decode64(readme[:content]).force_encoding('UTF-8')
 
 # Replace the existing blog posts section
-posts_regex = /### Recent Blog Posts\n\n[\s\S]*?(?=<\/td>)/m
+posts_regex = /### Recent Blog Posts(?=\n)/m
 updated_content = readme_content.sub(posts_regex, "#{posts_list.join("\n")}\n")
 
 client.update_contents(repo, 'README.md', 'Update recent blog posts', readme[:sha], updated_content)
