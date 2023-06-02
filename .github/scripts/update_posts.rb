@@ -1,6 +1,9 @@
 require 'httparty'
 require 'nokogiri'
 require 'octokit'
+require "logger"
+logger = Logger.new(STDOUT)
+logger.debug("I'm a debug log")
 
 # Scrape blog posts from the website
 url = "https://www.bingfeng.tech/blog/"
@@ -16,7 +19,7 @@ posts.first(5).each do |post|
   posts_list << "* [#{title}](#{link})"
 end
 
-puts posts_list
+logger.debug(posts_list)
 
 # Update the README.md file
 client = Octokit::Client.new(access_token: ENV['GITHUB_TOKEN'])
