@@ -28,7 +28,7 @@ readme = client.readme(repo)
 readme_content = Base64.decode64(readme[:content]).force_encoding('UTF-8')
 
 # Replace the existing blog posts section
-posts_regex = /### Recent Blog Posts(?=\n)/m
+posts_regex = /### Recent Blog Posts[\s\S]*?(?=### Pinned Repos)/m
 updated_content = readme_content.sub(posts_regex, "#{posts_list.join("\n")}\n")
 
 client.update_contents(repo, 'README.md', 'Update recent blog posts', readme[:sha], updated_content)
