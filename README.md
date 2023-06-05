@@ -14,7 +14,6 @@
 * [Setup Your Pure VIM Dev Environment--Part II](https://sunbingfeng.github.io/blog/Setup_Your_VIM_Env_Part_II/)
 * [Setup Your Pure VIM Dev Environment--Part I](https://sunbingfeng.github.io/blog/Setup_Your_VIM_Env/)
 * [读研究生的那些年](https://sunbingfeng.github.io/blog/master_summary/)
-  
 ### Pinned Repos
 
 </div>
