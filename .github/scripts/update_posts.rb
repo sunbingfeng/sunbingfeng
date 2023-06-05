@@ -3,7 +3,6 @@ require 'nokogiri'
 require 'octokit'
 require "logger"
 logger = Logger.new(STDOUT)
-logger.debug("I'm a debug log")
 
 # Scrape blog posts from the website
 url = "https://www.bingfeng.tech/blog/"
@@ -12,7 +11,7 @@ parsed_page = Nokogiri::HTML(response.body)
 posts = parsed_page.css('.posts article')
 
 # Generate the updated blog posts list (top 5)
-posts_list = ["\n### Recent Blog Posts\n\n"]
+posts_list = ["### Recent Blog Posts\n"]
 posts.first(5).each do |post|
   title = post.css("header h2").text.strip
   link = "#{post.at_css('a')[:href]}"
