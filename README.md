@@ -9,11 +9,11 @@
 
 ### Recent Blog Posts
 
+* [Obsidian，私人PKM助理](https://sunbingfeng.github.io/blog/Obsidian/)
+* [待业日记-Day 2](https://sunbingfeng.github.io/blog/Unemployment_day_2/)
+* [待业日记-Day 1](https://sunbingfeng.github.io/blog/Unemployment_day_1/)
 * [g3log代码分析](https://sunbingfeng.github.io/blog/g3log_code_review/)
 * [婚姻的转折点](https://sunbingfeng.github.io/blog/the_turning_point_of_marriage/)
-* [你真的会用shared_ptr吗？](https://sunbingfeng.github.io/blog/shared_ptr_doule_free_issue/)
-* [试问工作的意义](https://sunbingfeng.github.io/blog/The_Meaning_Of_Work/)
-* [自动更新Github个人介绍页](https://sunbingfeng.github.io/blog/Update_Github_Intro_Pages/)
 ### Pinned Repos
 
 </div>
