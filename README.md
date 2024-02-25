@@ -9,11 +9,11 @@
 
 ### Recent Blog Posts
 
+* [你真的会用IDE吗？](https://sunbingfeng.github.io/blog/IDE_setup/)
 * [Obsidian，私人PKM助理](https://sunbingfeng.github.io/blog/Obsidian/)
 * [待业日记-Day 2](https://sunbingfeng.github.io/blog/Unemployment_day_2/)
 * [待业日记-Day 1](https://sunbingfeng.github.io/blog/Unemployment_day_1/)
 * [g3log代码分析](https://sunbingfeng.github.io/blog/g3log_code_review/)
-* [婚姻的转折点](https://sunbingfeng.github.io/blog/the_turning_point_of_marriage/)
 ### Pinned Repos
 
 </div>
