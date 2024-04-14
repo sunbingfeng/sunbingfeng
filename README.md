@@ -9,11 +9,11 @@
 
 ### Recent Blog Posts
 
+* [5个提升Linux开发效率的工具](https://sunbingfeng.github.io/blog/5tools_to_boost_efficiency/)
 * [和观众保持情绪共鸣](https://sunbingfeng.github.io/blog/How_to_capture_audience/)
 * [你真的会用IDE吗？](https://sunbingfeng.github.io/blog/IDE_setup/)
 * [Obsidian，私人PKM助理](https://sunbingfeng.github.io/blog/Obsidian/)
 * [待业日记-Day 2](https://sunbingfeng.github.io/blog/Unemployment_day_2/)
-* [待业日记-Day 1](https://sunbingfeng.github.io/blog/Unemployment_day_1/)
 ### Pinned Repos
 
 </div>
