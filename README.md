@@ -13,7 +13,7 @@
 * [和观众保持情绪共鸣](https://sunbingfeng.github.io/blog/How_to_capture_audience/)
 * [你真的会用IDE吗？](https://sunbingfeng.github.io/blog/IDE_setup/)
 * [Obsidian，私人PKM助理](https://sunbingfeng.github.io/blog/Obsidian/)
-* [待业日记-Day 2](https://sunbingfeng.github.io/blog/Unemployment_day_2/)
+* [g3log代码分析](https://sunbingfeng.github.io/blog/g3log_code_review/)
 ### Pinned Repos
 
 </div>
