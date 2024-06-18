@@ -2,6 +2,8 @@ require 'httparty'
 require 'nokogiri'
 require 'octokit'
 require "logger"
+require 'base64'
+
 logger = Logger.new(STDOUT)
 
 # Scrape blog posts from the website
