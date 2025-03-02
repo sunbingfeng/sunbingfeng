@@ -9,11 +9,11 @@
 
 ### Recent Blog Posts
 
+* [SO(3) Logarithm](https://sunbingfeng.github.io/blog/SO(3)_Log/)
+* [Fast exp implementations](https://sunbingfeng.github.io/blog/exp_fast_implementations/)
 * [5个提升Linux开发效率的工具](https://sunbingfeng.github.io/blog/5tools_to_boost_efficiency/)
 * [和观众保持情绪共鸣](https://sunbingfeng.github.io/blog/How_to_capture_audience/)
 * [你真的会用IDE吗？](https://sunbingfeng.github.io/blog/IDE_setup/)
-* [Obsidian，私人PKM助理](https://sunbingfeng.github.io/blog/Obsidian/)
-* [g3log代码分析](https://sunbingfeng.github.io/blog/g3log_code_review/)
 ### Pinned Repos
 
 </div>
