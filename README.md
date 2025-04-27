@@ -9,11 +9,11 @@
 
 ### Recent Blog Posts
 
+* [4th-order Rugge-Kutta](https://sunbingfeng.github.io/blog/RungeKutta/)
 * [Fast Inverse sqrt](https://sunbingfeng.github.io/blog/fast_inv_sqrt/)
 * [Conjugate Gradient Method](https://sunbingfeng.github.io/blog/Congugate_Gradient/)
 * [SO(3) Orthogonalization](https://sunbingfeng.github.io/blog/R_orthogonalize/)
 * [SO(3) Logarithm](https://sunbingfeng.github.io/blog/SO(3)_Log/)
-* [Fast exp implementations](https://sunbingfeng.github.io/blog/exp_fast_implementations/)
 ### Pinned Repos
 
 </div>
