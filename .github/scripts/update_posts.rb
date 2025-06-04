@@ -7,15 +7,15 @@ require 'base64'
 logger = Logger.new(STDOUT)
 
 # Scrape blog posts from the website
-url = "https://www.bingfeng.tech/blog/"
+url = "https://www.bingfeng.tech/"
 response = HTTParty.get(url)
 parsed_page = Nokogiri::HTML(response.body)
-posts = parsed_page.css('.posts article')
+posts = parsed_page.css('.post-card')
 
 # Generate the updated blog posts list (top 5)
 posts_list = ["### Recent Blog Posts\n"]
 posts.first(5).each do |post|
-  title = post.css("header h2").text.strip
+  title = post.css("h2").text.strip
   link = "#{post.at_css('a')[:href]}"
   posts_list << "* [#{title}](#{link})"
 end
