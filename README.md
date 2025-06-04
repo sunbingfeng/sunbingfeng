@@ -9,6 +9,11 @@
 
 ### Recent Blog Posts
 
+* [4th-order Rugge-Kutta](/blog/RungeKutta/)
+* [Fast Inverse sqrt](/blog/fast_inv_sqrt/)
+* [Conjugate Gradient Method](/blog/Congugate_Gradient/)
+* [SO(3) Orthogonalization](/blog/R_orthogonalize/)
+* [SO(3) Logarithm](/blog/SO(3)_Log/)
 ### Pinned Repos
 
 </div>
