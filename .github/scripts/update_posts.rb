@@ -17,7 +17,7 @@ posts_list = ["### Recent Blog Posts\n"]
 posts.first(5).each do |post|
   title = post.css("h2").text.strip
   link = "#{post.at_css('a')[:href]}"
-  posts_list << "* [#{title}](#{link})"
+  posts_list << "* [#{title}](#{url}#{link})"
 end
 
 logger.debug(posts_list)
