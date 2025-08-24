@@ -9,11 +9,11 @@
 
 ### Recent Blog Posts
 
+* [SFINAE到底是不是Error？](https://www.bingfeng.tech//blog/SFINAE/)
 * [Deep Dive into Butterworth Low Pass Filter](https://www.bingfeng.tech//blog/Butterworth_LPF/)
 * [4th-order Rugge-Kutta](https://www.bingfeng.tech//blog/RungeKutta/)
 * [Fast Inverse sqrt](https://www.bingfeng.tech//blog/fast_inv_sqrt/)
 * [Conjugate Gradient Method](https://www.bingfeng.tech//blog/Congugate_Gradient/)
-* [SO(3) Orthogonalization](https://www.bingfeng.tech//blog/R_orthogonalize/)
 ### Pinned Repos
 
 </div>
