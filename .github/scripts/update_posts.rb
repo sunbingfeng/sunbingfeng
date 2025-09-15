@@ -7,7 +7,7 @@ require 'base64'
 logger = Logger.new(STDOUT)
 
 # Scrape blog posts from the website
-url = "https://www.bingfeng.tech/"
+url = "https://www.bingfeng.dev/"
 response = HTTParty.get(url)
 parsed_page = Nokogiri::HTML(response.body)
 posts = parsed_page.css('.post-card')
