@@ -9,11 +9,11 @@
 
 ### Recent Blog Posts
 
-* [SFINAE到底是不是Error？](https://www.bingfeng.tech//blog/SFINAE/)
-* [Deep Dive into Butterworth Low Pass Filter](https://www.bingfeng.tech//blog/Butterworth_LPF/)
-* [4th-order Rugge-Kutta](https://www.bingfeng.tech//blog/RungeKutta/)
-* [Fast Inverse sqrt](https://www.bingfeng.tech//blog/fast_inv_sqrt/)
-* [Conjugate Gradient Method](https://www.bingfeng.tech//blog/Congugate_Gradient/)
+* [探究优化求解方法](https://www.bingfeng.dev//blog/Gaussian_Newton_methods/)
+* [什么是KLT变换？](https://www.bingfeng.dev//blog/KLT_SVD/)
+* [Setup Android Dev Environment](https://www.bingfeng.dev//blog/Setup_Android_dev/)
+* [SFINAE到底是不是Error？](https://www.bingfeng.dev//blog/SFINAE/)
+* [Deep Dive into Butterworth Low Pass Filter](https://www.bingfeng.dev//blog/Butterworth_LPF/)
 ### Pinned Repos
 
 </div>
